@@ -1,0 +1,16 @@
+<h3>Instructions</h3>
+<p>This test consists of about 60 trials, in each of which you will see a string of letters. Your task is to
+decide whether this is an existing English word or not. If you think it is an existing English word, you
+click on "yes", and if you think it is not an existing English word, you click on "no"..</p>
+
+<p>If you are sure that the word exists, even though you don’t know its exact meaning, you may still
+respond "yes". But if you are not sure if it is an existing word, you should respond "no".</p>
+
+<p>In this experiment, we use British English rather than American English spelling. For example:
+"realise" instead of "realize"; "colour" instead of "color", and so on. Please don’t let this confuse you.
+This experiment is not about detecting such subtle spelling differences anyway.</p>
+
+<p>You have as much time as you like for each decision. This part of the experiment will take about 5
+minutes.</p>
+
+<p>If everything is clear, you can now start the experiment.</p>
