@@ -11,7 +11,7 @@ LexTALE was devleoped by Lemhöfer & Broersma (2012) as a quick and reliable alt
 
 > Lemhöfer, K., & Broersma, M. (2012). LexTALE: A quick and valid lexical test of vocabulary knowledge in multiple languages. *Behavior Research Methods, 44*(2), 325–343. [https://doi.org/10.3758/s13428-011-0146-0](https://doi.org/10.3758/s13428-011-0146-0)
 
-This app is **not an official distribution** of LexTALE. I share this simple implementation in R in case it useful for other researchers Please respect and acknowledge the work of the test's orignal creators (Lemhöfer & Broersma, 2012). 
+This app is **not an official distribution** of LexTALE. I share this simple implementation in R in case it useful for other researchers. Please respect and acknowledge the work of the test's orignal creators (Lemhöfer & Broersma, 2012). 
 
 ---
 
